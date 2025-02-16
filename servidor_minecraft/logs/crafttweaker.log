@@ -1,0 +1,23 @@
+[16:46:03.673][INFO]: Successfully injected RecipeFS file system
+[16:46:03.735][INFO]: Successfully identified and loaded plugin crafttweaker:builtin
+[16:46:03.736][INFO]: Successfully identified and loaded plugin crafttweaker:builtin_forge
+[16:46:03.740][INFO]: Successfully identified and loaded plugin farmersdelight:crafttweaker_plugin
+[16:46:04.739][INFO]: The following mods have explicit CraftTweaker support through the default plugin:
+[16:46:04.740][INFO]: - 'aether' at version '1.19.2-1.4.2-forge'
+[16:46:04.740][INFO]: - 'aquaculture' at version '1.19.2-2.4.17'
+[16:46:04.740][INFO]: - 'crafttweaker' at version '10.1.55'
+[16:46:04.740][INFO]: - 'farmersdelight' at version '1.19.2-1.2.4'
+[16:46:04.740][INFO]: - 'gamestages' at version '11.1.4'
+[16:46:04.740][INFO]: - 'itemstages' at version '5.1.4'
+[16:46:18.606][INFO]: Started loading scripts for loader 'initialize'
+[16:46:19.326][INFO]: Compiling and executing scripts
+[16:46:19.401][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:46:19.579][INFO]: Execution for loader 'initialize' completed successfully
+[16:46:31.423][INFO]: Started loading scripts for loader 'tags'
+[16:46:31.494][INFO]: Compiling and executing scripts
+[16:46:31.522][INFO]: Successfully initialized modules [crafttweaker, expansions]
+[16:46:31.535][INFO]: Execution for loader 'tags' completed successfully
+[16:46:37.387][INFO]: Started loading scripts for loader 'crafttweaker'
+[16:46:37.421][INFO]: Compiling and executing scripts
+[16:46:37.936][INFO]: Successfully initialized modules [mods, crafttweaker, expansions]
+[16:46:37.949][INFO]: Execution for loader 'crafttweaker' completed successfully
