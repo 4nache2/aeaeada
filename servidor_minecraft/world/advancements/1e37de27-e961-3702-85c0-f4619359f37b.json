@@ -503,15 +503,15 @@
     },
     "done": true
   },
-  "betterdeserttemples:root": {
-    "criteria": {
-      "always": "2025-02-16 16:48:46 +0000"
-    },
-    "done": true
-  },
   "totw_modded:root": {
     "criteria": {
       "sample_trigger": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-16 16:48:46 +0000"
     },
     "done": true
   },
@@ -659,19 +659,25 @@
     },
     "done": true
   },
-  "simplyswords:grant_book_on_first_join": {
-    "criteria": {
-      "tick": "2025-02-16 16:48:46 +0000"
-    },
-    "done": true
-  },
   "toms_storage:unlock_netherite": {
     "criteria": {
       "inv_changed-netherite": "2025-02-16 16:48:45 +0000"
     },
     "done": true
   },
+  "simplyswords:grant_book_on_first_join": {
+    "criteria": {
+      "tick": "2025-02-16 16:48:46 +0000"
+    },
+    "done": true
+  },
   "vinery:dirt_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "vinery:cherry_stairs": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
@@ -683,13 +689,13 @@
     },
     "done": false
   },
-  "vinery:cherry_stairs": {
+  "vinery:grass_slab": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
     "done": true
   },
-  "vinery:grass_slab": {
+  "enigmaticaddons:book/tools/astral_spear": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
@@ -698,12 +704,6 @@
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2025-02-16 16:48:46 +0000"
-    },
-    "done": true
-  },
-  "enigmaticaddons:book/tools/astral_spear": {
-    "criteria": {
-      "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
     "done": true
   },
@@ -725,15 +725,15 @@
     },
     "done": true
   },
-  "cataclysm:root": {
-    "criteria": {
-      "custom_test_name": "2025-02-16 16:48:46 +0000"
-    },
-    "done": true
-  },
   "comforts:sleeping_bag_yellow": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
+    },
+    "done": true
+  },
+  "cataclysm:root": {
+    "criteria": {
+      "custom_test_name": "2025-02-16 16:48:46 +0000"
     },
     "done": true
   },
@@ -960,25 +960,19 @@
     },
     "done": true
   },
-  "incendium:technical/firestorm": {
-    "criteria": {
-      "log_spam_fixer": "2025-02-16 16:48:47 +0000"
-    },
-    "done": false
-  },
   "vinery:vinemaker_apron": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
     "done": true
   },
-  "comforts:hammock_blue_from_white": {
+  "incendium:technical/firestorm": {
     "criteria": {
-      "has_the_recipe": "2025-02-16 16:48:45 +0000"
+      "log_spam_fixer": "2025-02-16 16:48:47 +0000"
     },
-    "done": true
+    "done": false
   },
-  "comforts:sleeping_bag_gray_from_white": {
+  "comforts:hammock_blue_from_white": {
     "criteria": {
       "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
@@ -987,6 +981,12 @@
   "undead_unleashed:undead_unleashed": {
     "criteria": {
       "undead_unleashed": "2025-02-16 16:48:44 +0000"
+    },
+    "done": true
+  },
+  "comforts:sleeping_bag_gray_from_white": {
+    "criteria": {
+      "has_the_recipe": "2025-02-16 16:48:45 +0000"
     },
     "done": true
   },
